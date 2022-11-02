@@ -3,4 +3,4 @@ drwxr-xr-x 1 beder 197609   0 Nov  1 19:30 ./
 drwxr-xr-x 1 beder 197609   0 Nov  1 19:28 ../
 -rw-r--r-- 1 beder 197609   9 Nov  1 19:28 README.md
 -rw-r--r-- 1 beder 197609   0 Nov  1 19:30 dos.txt
--rw-r--r-- 1 beder 197609 244 Nov  1 19:30 uno.txt
+
